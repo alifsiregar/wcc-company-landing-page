@@ -1,0 +1,14 @@
+.frame {
+    background-color: white;
+    width: 200px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+.frame-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 7px;
+}
